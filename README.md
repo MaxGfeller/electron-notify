@@ -1,4 +1,4 @@
-# electron-notify
+# electron-notification
 
 [![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
@@ -14,7 +14,7 @@ package.
 Pretty simple:
 
 ```javascript
-const notify = require('electron-notify')
+const notify = require('electron-notification')
 notify('The title of the notification', {
   body: 'The body of the notification'
 }, () => {
