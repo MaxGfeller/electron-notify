@@ -1,6 +1,6 @@
 {
   "name": "electron-notify",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Easily send desktop notifications, can be used from main and renderer processes",
   "main": "index.js",
   "scripts": {
