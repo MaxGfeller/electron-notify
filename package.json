@@ -1,0 +1,34 @@
+{
+  "name": "electron-notify",
+  "version": "0.0.0",
+  "description": "Easily send desktop notifications, can be used from main and renderer processes",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MaxGfeller/electron-notify.git"
+  },
+  "keywords": [
+    "electron",
+    "notification",
+    "desktop",
+    "notification",
+    "notifications",
+    "notify",
+    "native"
+  ],
+  "author": "Max Gfeller <max.gfeller@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxGfeller/electron-notify/issues"
+  },
+  "homepage": "https://github.com/MaxGfeller/electron-notify#readme",
+  "dependencies": {
+    "electron-main-notification": "^1.0.0"
+  },
+  "devDependencies": {
+    "standard": "^8.0.0"
+  }
+}
